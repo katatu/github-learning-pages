@@ -23,3 +23,5 @@ I am using those tutorials:
 Learn How To Code a WordPress Theme - Development Tutorial with Bootstrap 4, Underscores & DevWP
 https://www.youtube.com/watch?v=pEJ2IzYOx5c
 
+How To Install MySQL on Windows 10 (little too long, but lovely and I had fun, worht that time)
+https://www.youtube.com/watch?v=WuBcTJnIuzo
